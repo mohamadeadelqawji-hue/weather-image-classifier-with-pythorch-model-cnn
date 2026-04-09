@@ -1,4 +1,4 @@
-# weather-image-classifier-with-pythorch-model-cnn
+
 # Weather CNN Classifier
 
 A PyTorch-based CNN model for classifying weather conditions into 4 categories: sunrise, cloud, rain, and shine.
